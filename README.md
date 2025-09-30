@@ -2,7 +2,7 @@
 
 Projeto de automação de testes de API REST utilizando Java + Rest Assured, estruturado em arquitetura em camadas para garantir organização, reutilização e fácil manutenção.
 
-##📂 **Estrutura do Projeto**
+```📂 **Estrutura do Projeto**
     src
 ├── main
 │ └── java/com/vemser/rest
@@ -13,7 +13,7 @@ Projeto de automação de testes de API REST utilizando Java + Rest Assured, est
 │ └── resources # Arquivos externos (ex.: configs, schemas)
 │
 └── test # Casos de teste
-
+```
 
 🏗️ **Arquitetura em Camadas**
 
