@@ -2,6 +2,8 @@
 
 Projeto de automação de testes de API REST utilizando Java + Rest Assured, estruturado em arquitetura em camadas para garantir organização, reutilização e fácil manutenção.
 
+A automação foi criada a partir de um Swagger, onde foi utilizado o Docker para a criação do Container.
+
 ```📂 **Estrutura do Projeto**
     src
  ├── main
