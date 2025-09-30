@@ -4,15 +4,16 @@ Projeto de automação de testes de API REST utilizando Java + Rest Assured, est
 
 ```📂 **Estrutura do Projeto**
     src
-├── main
-│ └── java/com/vemser/rest
-│ ├── client # Camada de serviços: chamadas às APIs
-│ ├── data # Massa de dados para os testes
-│ ├── model # Modelos (POJOs) de request/response
-│ ├── utils # Utilitários e configurações globais
-│ └── resources # Arquivos externos (ex.: configs, schemas)
-│
-└── test # Casos de teste
+ ├── main
+ │    └── java/com/vemser/rest
+ │         ├── client     # Camada de serviços: chamadas às APIs
+ │         ├── data       # Massa de dados para os testes
+ │         ├── model      # Modelos (POJOs) de request/response
+ │         ├── utils      # Utilitários e configurações globais
+ │         └── resources  # Arquivos externos (ex.: configs, schemas)
+ │
+ └── test                 # Casos de teste
+
 ```
 
 🏗️ **Arquitetura em Camadas**
